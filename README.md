@@ -1,5 +1,7 @@
 # Handwritten Digit Recognition
 
+- [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7115708527280631808/)
+
 <div style="text-align: center;">
   <img src="https://mentorspool.com/wp-content/uploads/2021/09/0_EwdH1C6ThmpwY0Qo.png" alt="Handwritten Digit Recognition Image" width="800" height="600" >
 </div>
