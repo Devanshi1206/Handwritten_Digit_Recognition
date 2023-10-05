@@ -1,7 +1,8 @@
 # Handwritten Digit Recognition
 
-<img src="https://mentorspool.com/wp-content/uploads/2021/09/0_EwdH1C6ThmpwY0Qo.png" alt="Handwritten Digit Recognition Image" width="800" height="600" >
-
+<div style="text-align: center;">
+  <img src="https://mentorspool.com/wp-content/uploads/2021/09/0_EwdH1C6ThmpwY0Qo.png" alt="Handwritten Digit Recognition Image" width="800" height="600" >
+</div>
 
 Using Machine learning algorithm on the digit Dataset for Prediction of the number.
 
@@ -22,6 +23,6 @@ This Notebook shows:
 
 ## Data Analysis:
 
-Supervised Machine learning Technique used is Support Vector Machine which help us give an accuracy of 97.11% .
+The supervised Machine learning Technique used is Support Vector Machine which help us give an accuracy of 97.11% .
 
 P.S.: If you find this helpful, kindly consider giving it a star rating. Thank you!
